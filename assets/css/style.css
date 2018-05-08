@@ -1,0 +1,42 @@
+body {
+    background-image: url("../images/banksybk2.png");
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+
+#button {
+    width:100px;
+    height:50px;
+    position: inherit;
+    background: #8192ae;
+    color: #1f2a32;
+}
+
+.clickToAnimate {
+    display: inline;
+    font-family: 'Cabin', sans-serif;
+    font-size: 30px;
+    color: #acf39d;
+    text-shadow: 2px 2px 5px #000000; 
+}
+
+button {
+	margin: 5px;
+	background: #9cb3ca;
+	font-size: 16px;
+    border: 0px;
+	padding: 5px 15px;
+	color: #1f2a32;
+	font-weight: bold;
+}
+
+.gifDiv {
+	display: inline-block;
+	margin: 25px 5px 10px;
+}
+
+p {
+	margin: 10px 0;
+    font-size: 18px;
+    font-family: 'Oswald', sans-serif;
+}
