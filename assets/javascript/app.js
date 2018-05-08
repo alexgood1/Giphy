@@ -86,8 +86,6 @@ $(function() {
 
 });
 
-// function errorImg(img){
-// $(img).parent().hide();
-// }
+
 
 // giphy api: zCRjKwWu20KPPk8dK3hLq7GgWq2kEk7R
