@@ -4,9 +4,8 @@ Generate 10 gifs from buttons and from a category inputted by the user.
 
 view demo [here](https://alexgood1.github.io/Giphy)
 
-#Usage
-Users are welcomed by the wall of gifs. There are several categories to chose from already, and clicking one will fill the wall with at least 10 giphy-api-sourced gifs. Users can also add categories to the page and then pull up the results on the wall.
-
+# Usage
+Users are welcomed by the wall of gifs with several categories to chose from to begin. Clicking on a category will fill the wall with 10 giphy-api-sourced gifs. Add categories to the page to get a custom selection displayed on the gif wall. 
 #Technology Used
 
 HTML5
